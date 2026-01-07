@@ -51,6 +51,6 @@ frontend/build/
 # Session data
 *.session
 
-# Ollama (if you want to exclude)
+# Ollama (if required to be excluded)
 # ollama/
 
