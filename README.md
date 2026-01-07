@@ -4,12 +4,12 @@ AI-powered documentation generator for code repositories. Upload your code or cl
 
 ## Features
 
-- ✅ **No Code Storage** - Privacy-first approach, all code processed in-memory
-- ✅ **Local AI Processing** - Uses Ollama for local AI processing (no external APIs)
-- ✅ **In-Memory Sessions** - No database required
-- ✅ **Multiple Input Methods** - Upload ZIP files or clone from Git repositories
-- ✅ **JWT Authentication** - Secure token-based authentication
-- ✅ **Modern Stack** - Spring Boot backend + React TypeScript frontend
+-  **No Code Storage** - Privacy-first approach, all code processed in-memory
+-  **Local AI Processing** - Uses Ollama for local AI processing (no external APIs)
+-  **In-Memory Sessions** - No database required
+-  **Multiple Input Methods** - Upload ZIP files or clone from Git repositories
+-  **JWT Authentication** - Secure token-based authentication
+-  **Modern Stack** - Spring Boot backend + React TypeScript frontend
 
 ## Project Structure
 
@@ -141,18 +141,4 @@ The frontend will start on `http://localhost:5173`
 - Material-UI for components
 - Zustand for state management
 - React Router for navigation
-
-## License
-
-This project is created for educational purposes.
-
-## Next Steps
-
-The tutorial covers additional modules for:
-- Code parsing (Java, Python, JavaScript, etc.)
-- AI integration with Ollama
-- Documentation generation
-- PDF export
-
-Refer to the tutorial guide for complete implementation details.
 
