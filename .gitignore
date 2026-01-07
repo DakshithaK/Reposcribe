@@ -1,0 +1,56 @@
+# Maven
+backend/target/
+backend/.mvn/
+backend/mvnw
+backend/mvnw.cmd
+backend/.mvn/wrapper/maven-wrapper.jar
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+*~
+
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/.env.local
+frontend/.env.*.local
+frontend/package-lock.json
+
+# Logs
+*.log
+backend.log
+frontend.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+.pids
+
+# Build artifacts
+backend/target/
+frontend/dist/
+frontend/build/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Session data
+*.session
+
+# Ollama (if you want to exclude)
+# ollama/
+
